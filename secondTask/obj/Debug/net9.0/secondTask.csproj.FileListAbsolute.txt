@@ -1,0 +1,17 @@
+C:\Users\Think\Documents\MeProject\secondTask\bin\Debug\net9.0\secondTask.exe
+C:\Users\Think\Documents\MeProject\secondTask\bin\Debug\net9.0\secondTask.deps.json
+C:\Users\Think\Documents\MeProject\secondTask\bin\Debug\net9.0\secondTask.runtimeconfig.json
+C:\Users\Think\Documents\MeProject\secondTask\bin\Debug\net9.0\secondTask.dll
+C:\Users\Think\Documents\MeProject\secondTask\bin\Debug\net9.0\secondTask.pdb
+C:\Users\Think\Documents\MeProject\secondTask\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.csproj.AssemblyReference.cache
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.AssemblyInfoInputs.cache
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.AssemblyInfo.cs
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.csproj.CoreCompileInputs.cache
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.csproj.Up2Date
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.dll
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\refint\secondTask.dll
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.pdb
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\secondTask.genruntimeconfig.cache
+C:\Users\Think\Documents\MeProject\secondTask\obj\Debug\net9.0\ref\secondTask.dll
